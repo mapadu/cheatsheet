@@ -1,0 +1,30 @@
+body {
+    background-color: #B5D5C5;
+    font-family: Arial;
+}
+
+table {
+    border: 2px solid #F5F5DC;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+th {
+    background-color: #F5F5DC;
+    
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #F5F5DC;
+}
+
